@@ -1,0 +1,4 @@
+/node_modules
+*.txt
+jq.js
+*.zip
